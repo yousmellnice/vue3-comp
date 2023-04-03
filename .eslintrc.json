@@ -4,6 +4,6 @@
       "parser": "@typescript-eslint/parser"
     },
     "rules": {
-      "quotes": [1, "single"]
+      "quotes": [2, "single"]
     }
 }
