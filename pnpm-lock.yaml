@@ -6,6 +6,7 @@ specifiers:
   '@rushstack/eslint-patch': ^1.2.0
   '@types/jsdom': ^21.1.0
   '@types/node': ^18.14.2
+  '@typescript-eslint/parser': ^5.57.0
   '@vitejs/plugin-vue': ^4.0.0
   '@vitejs/plugin-vue-jsx': ^3.0.0
   '@vue/eslint-config-prettier': ^7.1.0
@@ -25,6 +26,7 @@ specifiers:
   vite: ^4.1.4
   vitest: ^0.29.1
   vue: ^3.2.47
+  vue-eslint-parser: ^9.1.1
   vue-router: ^4.1.6
   vue-tsc: ^1.2.0
 
@@ -42,6 +44,7 @@ devDependencies:
   '@rushstack/eslint-patch': registry.npmmirror.com/@rushstack/eslint-patch/1.2.0
   '@types/jsdom': registry.npmmirror.com/@types/jsdom/21.1.1
   '@types/node': registry.npmmirror.com/@types/node/18.15.11
+  '@typescript-eslint/parser': registry.npmmirror.com/@typescript-eslint/parser/5.57.0_cbauiz4bscyuvjf5e6w5phy6na
   '@vitejs/plugin-vue': registry.npmmirror.com/@vitejs/plugin-vue/4.1.0_vite@4.2.1+vue@3.2.47
   '@vitejs/plugin-vue-jsx': registry.npmmirror.com/@vitejs/plugin-vue-jsx/3.0.1_vite@4.2.1+vue@3.2.47
   '@vue/eslint-config-prettier': registry.npmmirror.com/@vue/eslint-config-prettier/7.1.0_fjzellzblqyf2bzxk7qvjavefi
@@ -56,6 +59,7 @@ devDependencies:
   typescript: registry.npmmirror.com/typescript/4.8.4
   vite: registry.npmmirror.com/vite/4.2.1_@types+node@18.15.11
   vitest: registry.npmmirror.com/vitest/0.29.8_jsdom@21.1.1
+  vue-eslint-parser: registry.npmmirror.com/vue-eslint-parser/9.1.1_eslint@8.37.0
   vue-tsc: registry.npmmirror.com/vue-tsc/1.2.0_typescript@4.8.4
 
 packages:
